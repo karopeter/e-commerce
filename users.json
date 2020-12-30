@@ -1,0 +1,37 @@
+[
+  {
+    "email": "test2@test.com",
+    "password": "password",
+    "id": "2b4d0596"
+  },
+  {
+    "email": "larry@prince.io",
+    "password": "test1234",
+    "id": "929fe2ed"
+  },
+  {
+    "email": "perry@rico.io",
+    "password": "79f90997042a3f576998e173e65fa27a519f2a4aee9eeda230ccf28f68277399090f28b3f57de8ab66a1561081bcf2368d3b018d5ce3154cf954f170e2106930.57832a8a09a8aa35",
+    "id": "76568b8f"
+  },
+  {
+    "email": "meal@tip.io",
+    "password": "cfe383b09ebebd39b9915f82a4fd25b8df183170baca601ee6b6c1955b9992644e5d7000c438e70d39ea37ecc255f5573251f0c006abee3299833d7787babcd3.a4a91c3aeaa48299",
+    "id": "ed47db31"
+  },
+  {
+    "email": "garoneil7@gmail.com",
+    "password": "0dfa88630d52f508683a6787a70857c4085331e9136a31ab28fe167125bc3ddaa8a956ac0e93cc71986a74c3af1505630367c4c34e6672b9516f86ba30c68c2e.b948d31768a1c66a",
+    "id": "4fc5b27c"
+  },
+  {
+    "email": "garoneil7@gmail.com",
+    "password": "f7d9a12ef03ec8f3da83ec91d8647b354faef52d7b1aea47261ac25159be86805a14692d4c421ac219df0ee63f53c121357afc2986f159caf86df30bab31f87f.9112594638c3f7e5",
+    "id": "25bac29e"
+  },
+  {
+    "email": "admin@natours.io",
+    "password": "45e10ef8ee1c9f0bf41ebbc9904fc951515db77dcdd3d3f3203c78fc62f787e0dbab992034b9624836028ff9433cd1693993bc4ce1ce72f8c750f3c6e7fb29f9.0d4b351a7471d7b5",
+    "id": "48e25373"
+  }
+]
